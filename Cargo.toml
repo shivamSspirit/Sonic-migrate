@@ -7,6 +7,7 @@ description = "CLI tool to migrate Solana Anchor projects to the Sonic Networks.
 license = "MIT"
 repository = "https://github.com/shivamSspirit/Sonic-migrate"
 homepage = "https://github.com/shivamSspirit/Sonic-migrate"
+documentation = "https://docs.rs/crate/sonic-migrate"
 readme = "README.md"
 keywords = ["solana", "anchor", "sonic", "cli"]
 
