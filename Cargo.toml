@@ -2,6 +2,13 @@
 name = "sonic-migrate"
 version = "0.1.0"
 edition = "2024"
+authors = ["Shivam Soni <shivamssoni6@gmail.com>"]
+description = "CLI tool to migrate Solana Anchor projects to the Sonic Networks."
+license = "MIT"
+repository = "https://github.com/shivamSspirit/Sonic-migrate"
+homepage = "https://github.com/shivamSspirit/Sonic-migrate"
+readme = "README.md"
+keywords = ["solana", "anchor", "sonic", "cli"]
 
 [dependencies]
 clap = { version = "4.1.8", features = ["derive"] }
